@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YnfWYWELJ0+dl7DgWF0UAx+gd+IX06davuOEB10CKyUSSJytzpwww6mA8JvRLZyrU/BAHnUng4zlwTnthlV47A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PLAPY-23\\Desktop\\vivek 1\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PLAPY-23\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
